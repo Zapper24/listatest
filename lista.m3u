@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF: -1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga TV HD" tvg-chno="1" group-title="Movistar", M+ LaLiga TV HD
-http://127.0.0.1:6821/ace/manifest.m3u8?id=acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+http://127.0.0.1:6878/ace/getstream?infohash=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF: -1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-chno="2" group-title="Movistar", DAZN LaLiga HD
-http://127.0.0.1:6821/ace/manifest.m3u8?id=acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+http://127.0.0.1:6821/ace/getstream?infohash=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF: -1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-chno="3" group-title="Movistar", M+ Liga de Campeones HD
 http://127.0.0.1:6821/ace/manifest.m3u8?id=acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-chno="4" group-title="Movistar", DAZN F1 HD
