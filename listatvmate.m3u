@@ -17,7 +17,7 @@ http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF: -1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes HD" tvg-chno="8" group-title="Movistar", • M. Deportes 1080
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF: -1 tvg-id="Prueba" tvg-name="Prueba" tvg-chno="9" group-title="Movistar", Prueba
-http://127.0.0.1:6878/ace/manifest.m3u8?id=dd1e67078381739d14beca697356ab76d49d1a2d
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 
 
