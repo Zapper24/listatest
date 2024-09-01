@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF: -1 tvg-id="M+ LaLiga TV HD" x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz" tvg-name="M+ LaLiga TV HD" group-title="Movistar", M+ LaLiga TV HD
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF: -1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" group-title="Movistar", DAZN LaLiga HD
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF: -1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" group-title="Movistar", M+ Liga de Campeones HD
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" group-title="Movistar", DAZN F1 HD
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF: -1 tvg-id="Eurosport 1 HD" x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz" tvg-name="Eurosport 1 HD" group-title="Movistar", Eurosport 1 HD
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF: -1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" group-title="Movistar", Eurosport 2
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF: -1 tvg-id="M+ Vamos HD" tvg-name="M+ Vamos HD" group-title="Movistar", M+ Vamos HD
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF: -1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes HD" group-title="Movistar", M+ Deportes HD
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF: -1 tvg-id="ZZZZ" tvg-name="ZZZZZ" group-title="Movistar", M+ Deportes HD
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+
+• DAZN LaLiga 2 720 MultiAudio
+
+acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+
+• DAZN LaLiga 2 720
+
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+
+• DAZN LaLiga 3 1080 MultiAudio
+
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+
+• DAZN LaLiga 4 1080 MultiAudio
+
+acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+
+• DAZN LaLiga 5 1080 MultiAudio
+
+acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
