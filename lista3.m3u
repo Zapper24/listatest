@@ -32,3 +32,5 @@ http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 http://127.0.0.1:6878/ace/getstream?id=424c89c7c0f251051269b578f40d13d192cf2c2d
 #EXTINF: -1 tvg-id="Prueba8" tvg-name="Prueba8" tvg-chno="16" group-title="Movistar", Prueba8
 http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF: -1 tvg-id="Champions2" tvg-name="Champions2" tvg-chno="17" group-title="Movistar", Champions2
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
