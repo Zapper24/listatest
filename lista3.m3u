@@ -43,4 +43,31 @@ http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF: -1 tvg-id="Champions4" tvg-name="Champions4" tvg-chno="19" group-title="Movistar", Champions4
 http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
 
-045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF: -1 tvg-id="Hyper1" tvg-name="Hyper1" tvg-chno="19" group-title="Movistar", Hyper1
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+
+#EXTINF: -1 tvg-id="Hyper2" tvg-name="Hyper2" tvg-chno="19" group-title="Movistar", Hyper2
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+
+#EXTINF: -1 tvg-id="Hyper3" tvg-name="Hyper3" tvg-chno="19" group-title="Movistar", Hyper3
+http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+
+#EXTINF: -1 tvg-id="Hyper4" tvg-name="Hyper4" tvg-chno="19" group-title="Movistar", Hyper4
+http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
+
+#EXTINF: -1 tvg-id="Hyper5" tvg-name="Hyper5" tvg-chno="19" group-title="Movistar", Hyper5
+http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+
+#EXTINF: -1 tvg-id="Hyper6" tvg-name="Hyper6" tvg-chno="19" group-title="Movistar", Hyper6
+http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+
+#EXTINF: -1 tvg-id="Hyper7" tvg-name="Hyper7" tvg-chno="19" group-title="Movistar", Hyper7
+http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+
+#EXTINF: -1 tvg-id="Hyper8" tvg-name="Hyper8" tvg-chno="19" group-title="Movistar", Hyper8
+http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
+
+
+
+
+4c46585214b23b1d802ef2168060c7649a3894cf
