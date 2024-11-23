@@ -58,8 +58,8 @@ http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF: -1 tvg-id="Hyper5" tvg-name="Hyper5" tvg-chno="19" group-title="Movistar", Hyper5
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 
-#EXTINF: -1 tvg-id="Hyper6" tvg-name="Hyper6" tvg-chno="19" group-title="Movistar", Hyper6
-http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF: -1 tvg-id="Hyper66" tvg-name="Hyper66" tvg-chno="19" group-title="Movistar", Hyper66
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF: -1 tvg-id="Hyper7" tvg-name="Hyper7" tvg-chno="19" group-title="Movistar", Hyper7
 http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
